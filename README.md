@@ -79,3 +79,6 @@ This educational movie clustering project shows advenced analysis techniques and
 
 ## Trying the models 
 For trying the models without running the whole project file you should download the MovieClusterFunction file and to use the function dowload with it all the joblib files here in this repository 
+
+## Used data
+Used data is from kaggle suddenly I coudn't puplish the file because github didn't accept it due to its size but there is the link on kaggle: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
