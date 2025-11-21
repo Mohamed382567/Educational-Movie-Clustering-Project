@@ -76,3 +76,6 @@ To demonstrate the real-world utility of this project, a `predict_and_explain_cl
 ## Conclusion and Impact
 
 This educational movie clustering project shows advenced analysis techniques and advanced techniques that converted the strind data into numerical data using Doc2Vec and Sentence_Bert which are NLP techniques and reducing the dimensions of the data using UMAP technique so the data can be understandble for the clustering model and this project showed significantly good clustering results and with more availble data this project idea would be more better in the real word business
+
+## Trying the models 
+For trying the models without running the whole project file you should download the MovieClusterFunction file and to use the function dowload with it all the joblib files here in this repository 
